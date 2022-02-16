@@ -1,7 +1,7 @@
 # Source-sink-dynamics-at-range-limits
 **Citation**
 
-Goel, N. and Keitt T.H. 2022. The mismatch between range and niche limits due to source-sink dynamics can be greater than species mean dispersal distance. The American Naturalist.
+Goel, N. and Keitt T.H. 2022. The mismatch between range and niche limits due to source-sink dynamics can be greater than species mean dispersal distance. _The American Naturalist_.
 
 
 **Author information**
