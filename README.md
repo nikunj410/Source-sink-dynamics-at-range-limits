@@ -4,7 +4,7 @@ Goel, N. and Keitt T.H. 2022. The mismatch between range and niche limits due to
 
 
 **Author information**<br />
-Nikunj Goel and Timothy H. Keitt, Department of Integrative Biology, University of Texas at Austin, Austin, Texas, USA, 78712.
+Nikunj Goel and Timothy H. Keitt, Department of Integrative Biology, University of Texas at Austin, Austin, Texas, USA, 78712.<br />
 contact: nikunj.goel@utexas.edu (corresponding author)
 
 **Summary**<br />
