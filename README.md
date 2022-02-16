@@ -4,10 +4,12 @@ Goel, N. and Keitt T.H. 2022. The mismatch between range and niche limits due to
 
 
 Author information
+
 Names and affiliation: Nikunj Goel and Timothy H. Keitt, Department of Integrative Biology, University of Texas at Austin, Austin, Texas, USA, 78712.
 contact: nikunj.goel@utexas.edu (corresponding author)
 
 Summary
+
 The paper investigates the role of source-sink dynamics in maintaining range limits. The central finding of the article is that, unlike traditional belief, source-sink dynamics can result in a large-scale mismatch between niche and range limit. These findings suggest simple correlative species distribution models that ignore dispersal may yield misleading predictions and inferences.
 
 Author contribution to data collection and code writing
