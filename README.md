@@ -19,7 +19,7 @@ The paper has no data. The script curvature.R generates Fig. 2 in the main text 
 
 **Software, machine and packages**
 
-R version 4.1.0 (2021-05-18). 
+R version 4.1.0 (2021-05-18)__
 Platform: x86_64-apple-darwin17.0 (64-bit). 
 Running under: macOS Big Sur 11.2.1. 
 R Packages: OceanView (version 1.0.6) and pracma (version 2.3.3)
