@@ -166,7 +166,7 @@ sign = array(0,length(curvature))
 sign[which(curvature>0)] = curvature[which(curvature>0)]/max(curvature)
 sign[which(curvature<0)] = -curvature[which(curvature<0)]/min(curvature)
 
-# plotting figure A1 of the paper
+# plotting figure S1 of the paper
 par(mfrow=c(1,1),mai=c(0.7,.7,0.35,0.05))
 index_boundary = round(Boundary$x)+(round(Boundary$y)-1)*91
 index_boundary = index_boundary[1:(length(index_boundary)-1)]
