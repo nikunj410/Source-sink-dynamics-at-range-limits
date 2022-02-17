@@ -109,7 +109,7 @@ sign[which(curvature>0)] = curvature[which(curvature>0)]/max(curvature)
 sign[which(curvature<0)] = -curvature[which(curvature<0)]/min(curvature)
 
 
-# plotting figure 1 of the paper
+# plotting figure 2 of the paper
 par(mfrow=c(1,2),mai=c(0.35,0.35,0.35,0.02))
 
 # when niche limit is a straight line
